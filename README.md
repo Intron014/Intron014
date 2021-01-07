@@ -1,8 +1,9 @@
 ### Hi there 👋
 My name is Jorge and I'm practically **new** to this stuff... Am I supposed to tell you stuff about me? Okay then!!
 
-- 😄 Pronouns: My pronouns are He/Him
-- 🌱 I’m currently learning how to program in HTML
+- 😄 Pronouns: My pronouns are He/Him - They/Them
+- 🌱 I’m currently learning how to program in HTML and... Python!
+- ⚡ Fun fact: I'm currently studying Bachillerato!
 
 And... well, that's kinda all for now. I hope I can add more stuff in the future!
 See you soon!
