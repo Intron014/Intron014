@@ -8,6 +8,7 @@ My name is Jorge and I'm practically **new** to this stuff... Am I supposed to t
 And... well, that's kinda all for now. I hope I can add more stuff in the future!
 See you soon!
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
 <!--
 **Intron014/Intron014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
