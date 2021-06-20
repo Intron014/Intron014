@@ -4,6 +4,7 @@ My name is Jorge and I'm practically **new** to this stuff... Am I supposed to t
 - 😄 Pronouns: My pronouns are He/Him - They/Them
 - 🌱 I’m currently learning how to program in HTML and... Python!
 - ⚡ Fun fact: I'm currently studying Bachillerato!
+- You can contact me at: me@intron014.com
 
 And... well, that's kinda all for now. I hope I can add more stuff in the future!
 See you soon!
