@@ -1,26 +1,12 @@
 ### Hi there 👋
 My name is Jorge and I'm practically **new** to this stuff... Am I supposed to tell you stuff about me? Okay then!!
 
-- 😄 Pronouns: My pronouns are He/Him - They/Them
-- 🌱 I’m currently learning how to program in HTML and... Python!
-- ⚡ Fun fact: I'm currently studying Bachillerato!
+- 😄 Pronouns: My pronouns are He/Him
+- 🌱 I’m currently learning how to program in Python!
+- ⚡ Fun fact: I'm currently studying Bachillerato (almost done!)
 - You can contact me at: me@intron014.com
 
 And... well, that's kinda all for now. I hope I can add more stuff in the future!
 See you soon!
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
-<!--
-**Intron014/Intron014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
