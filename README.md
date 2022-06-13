@@ -3,7 +3,7 @@ My name is Jorge and I'm practically **new** to this stuff... Am I supposed to t
 
 - 😄 Pronouns: My pronouns are He/Him
 - 🌱 I’m currently learning how to program in Python!
-- ⚡ Fun fact: I'm currently studying Bachillerato (almost done!)
+- ⚡ Fun fact: UPM, HERE I COME!
 - You can contact me at: me@intron014.com
 
 And... well, that's kinda all for now. I hope I can add more stuff in the future!
