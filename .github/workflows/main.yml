@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: j-benjumea
+          user: intron014
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
