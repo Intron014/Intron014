@@ -1,4 +1,4 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -17,7 +17,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - public_repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -26,10 +25,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: intron014
+          user: Intron014
           template: classic
           base: header, activity, community, repositories, metadata
-          config_octicon: yes
           config_timezone: Europe/Madrid
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -43,9 +41,10 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          repositories_forks: yes
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com/@Intron014
+          plugin_wakatime_user: Intron014
