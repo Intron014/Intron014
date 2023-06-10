@@ -1344,12 +1344,12 @@
                                 <span class="value">23%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">CITIT11-TP-FP</span>
+                                <span class="name">I014-API</span>
                                 <div class="bar" style="width: 0.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">I014-API</span>
+                                <span class="name">CITIT11-TP-FP</span>
                                 <div class="bar" style="width: 0.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
@@ -1359,7 +1359,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jun 2023, 04:46:26 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Jun 2023, 05:18:25 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
