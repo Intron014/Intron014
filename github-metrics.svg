@@ -1336,22 +1336,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">CITIM12-TP-FP</span>
-                                <div class="bar" style="width: 50.903999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 51.304%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">64%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CITIT21-POO</span>
-                                <div class="bar" style="width: 26.232%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">33%</span>
+                                <div class="bar" style="width: 25.808%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">32%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">docker-kepler</span>
-                                <div class="bar" style="width: 2.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">terminal</span>
-                                <div class="bar" style="width: 0.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.8079999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -1360,7 +1360,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Sept 2023, 14:34:42 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2023, 15:21:37 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
