@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            571 Commits
+                            572 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.16075089328086" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="458.16075089328086" y="0" width="0.828191759982218" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.98894265326305" y="0" width="0.6434234246577583" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.63236607792084" y="0" width="0.13577119665343815" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="459.7681372745743" y="0" width="0.1238149570734281" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.89195223164774" y="0" width="0.043021744881832726" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.93497397652953" y="0" width="0.041004504277818266" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="459.9759784808074" y="0" width="0.024021519192669497" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.16076175368613" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="458.16076175368613" y="0" width="0.8281917796139698" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.9889535333001" y="0" width="0.6434125359061724" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.6323660692063" y="0" width="0.13577119987180686" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="459.76813726907807" y="0" width="0.12381496000838185" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.8919522290865" y="0" width="0.04302174590163546" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.9349739749881" y="0" width="0.04100450524980361" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="459.9759784802379" y="0" width="0.024021519762084127" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1334,7 +1334,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~9 coding hours recorded
+                            ~10 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1358,22 +1358,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">bbdd</span>
-                                <div class="bar" style="width: 26.639999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 26.336%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">33%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CITIM12-TP-FP</span>
-                                <div class="bar" style="width: 16.616%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">21%</span>
+                                <div class="bar" style="width: 17.336%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">agps</span>
-                                <div class="bar" style="width: 15.991999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 15.808000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">20%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CITIT21-POO</span>
-                                <div class="bar" style="width: 13.863999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 13.703999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">17%</span>
                             </div>
                         </div>
@@ -1382,7 +1382,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Oct 2023, 12:20:11 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Oct 2023, 13:15:00 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
