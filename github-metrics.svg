@@ -1360,7 +1360,7 @@
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">CITIM12-TP-FP</span>
+                                <span class="name">CITIT21-BD</span>
                                 <div class="bar" style="width: 2.856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
@@ -1370,7 +1370,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Nov 2023, 12:14:35 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2023, 13:32:39 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
