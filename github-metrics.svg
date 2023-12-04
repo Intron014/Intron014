@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            523 Commits
+                            527 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 270 repositories
+                            Starred 269 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.4516750409042" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="232.4516750409042" y="0" width="144.9845782517377" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="377.4362532926419" y="0" width="26.585701521287582" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="404.0219548139295" y="0" width="24.24451999953584" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="428.2664748134653" y="0" width="10.576418301867088" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="438.8428931153324" y="0" width="8.424196711419519" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="447.26708982675194" y="0" width="8.029195725077457" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="455.2962855518294" y="0" width="4.703714448170626" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.21496766948698" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="236.21496766948698" y="0" width="142.58676058073956" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="378.8017282502265" y="0" width="26.146015689371442" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="404.94774393959796" y="0" width="23.843553640349576" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="428.7912975799475" y="0" width="10.401500920957432" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="439.192798500905" y="0" width="8.284873702157574" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="447.4776722030625" y="0" width="7.896405412992918" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="455.37407761605544" y="0" width="4.625922383944528" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1353,23 +1353,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">advent-of-code-2023</span>
-                                <div class="bar" style="width: 20.688%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 20.72%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">26%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">IAWork</span>
-                                <div class="bar" style="width: 16.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 16.663999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CITIT21-AL</span>
-                                <div class="bar" style="width: 14.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 14.576%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">18%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CITIT21-POO</span>
-                                <div class="bar" style="width: 13.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">16%</span>
+                                <div class="bar" style="width: 13.431999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
                             </div>
                         </div>
                     </section>
@@ -1377,7 +1377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Dec 2023, 18:17:39 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2023, 19:24:16 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
