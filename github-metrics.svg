@@ -1362,8 +1362,8 @@
                             </div>
                             <div class="entry">
                                 <span class="name">enero24_examenpoo_bt0354</span>
-                                <div class="bar" style="width: 18.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 17.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">IAWorkP3</span>
@@ -1381,7 +1381,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jan 2024, 18:16:15 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jan 2024, 19:23:46 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
