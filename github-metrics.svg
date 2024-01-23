@@ -1352,13 +1352,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">CITIM12-TP-FP</span>
-                                <div class="bar" style="width: 58.327999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">73%</span>
+                                <div class="bar" style="width: 48.224000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">60%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PDF-Utilities</span>
-                                <div class="bar" style="width: 21.671999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <div class="bar" style="width: 31.776%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">40%</span>
                             </div>
                         </div>
                     </section>
@@ -1366,7 +1366,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jan 2024, 15:18:30 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jan 2024, 16:20:05 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
