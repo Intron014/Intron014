@@ -1340,23 +1340,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">CITIT21-FIS</span>
-                                <div class="bar" style="width: 39.384%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">49%</span>
+                                <div class="bar" style="width: 40.760000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">51%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Reldus</span>
-                                <div class="bar" style="width: 30.088%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">38%</span>
+                                <div class="bar" style="width: 31.136%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">EllipticCurveCalculator</span>
-                                <div class="bar" style="width: 6.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.4159999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">CroissantChess</span>
-                                <div class="bar" style="width: 2.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <span class="name">CITIT21-PCA</span>
+                                <div class="bar" style="width: 1.6879999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -1364,7 +1364,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Apr 2024, 13:15:15 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Apr 2024, 14:30:50 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
