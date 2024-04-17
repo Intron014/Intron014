@@ -1357,13 +1357,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Reldus</span>
-                                <div class="bar" style="width: 53.272000000000006%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">67%</span>
+                                <div class="bar" style="width: 60.879999999999995%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">76%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">tampermonkey-scripts</span>
-                                <div class="bar" style="width: 26.727999999999994%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">33%</span>
+                                <div class="bar" style="width: 19.119999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">24%</span>
                             </div>
                         </div>
                     </section>
@@ -1371,7 +1371,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Apr 2024, 03:17:44 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Apr 2024, 04:27:20 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
