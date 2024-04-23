@@ -1352,22 +1352,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Reldus</span>
-                                <div class="bar" style="width: 39.352000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 39.072%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">49%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Parchisii</span>
-                                <div class="bar" style="width: 19.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 19%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">24%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CITIT21-PCA</span>
-                                <div class="bar" style="width: 13.271999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
+                                <div class="bar" style="width: 13.175999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">A</span>
-                                <div class="bar" style="width: 6.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                         </div>
@@ -1376,7 +1376,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Apr 2024, 14:35:15 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Apr 2024, 15:20:16 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
