@@ -27,10 +27,8 @@ jobs:
           # Options
           user: Intron014
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           config_timezone: Europe/Madrid
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -42,9 +40,15 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
-          plugin_wakatime_days: 7                                   # Display last week stats
-          plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
-          plugin_wakatime_limit: 4                                  # Show 4 entries per graph
-          plugin_wakatime_url: https://waka.intron014.com           # Wakatime url endpoint
-          plugin_wakatime_user: .user.login                         # User
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, os, projects-graphs
+          plugin_wakatime_limit: 4
+          plugin_wakatime_url: https://waka.intron014.com
+          plugin_wakatime_user: .user.login
+          plugin_music: yes
+          plugin_music_provider: lastfm
+          plugin_music_token: ${{ secrets.LASTFM_KEY }}
+          plugin_music_user: Intr0n
+          
+          
