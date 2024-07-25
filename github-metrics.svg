@@ -34,15 +34,15 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -71,14 +71,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="161.1551673804982" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="161.1551673804982" y="0" width="133.60582902435024" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="294.7609964048484" y="0" width="69.78209142642336" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="364.5430878312718" y="0" width="32.71667886378814" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="397.25976669505997" y="0" width="29.199428934771394" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="426.45919562983136" y="0" width="24.677776044853417" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.1369716746848" y="0" width="7.295718210502321" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.4326898851871" y="0" width="1.5673101148129043" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.1292071579805" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="155.1292071579805" y="0" width="128.3784645770651" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="283.5076717350456" y="0" width="67.05184809465074" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="350.55951982969634" y="0" width="40.13848701780273" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="390.6980068474991" y="0" width="36.72349860321779" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="427.42150545071684" y="0" width="24.062234620985933" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="451.48374007170275" y="0" width="7.010271248573438" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.4940113202762" y="0" width="1.5059886797237945" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -101,15 +101,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -216,18 +216,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">gasoprices</span>
-                                <div class="bar" style="width: 42.992%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">54%</span>
+                                <div class="bar" style="width: 77.464%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">97%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">I014API</span>
-                                <div class="bar" style="width: 36.480000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">46%</span>
+                                <div class="bar" style="width: 2.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">eat.intron014.com</span>
-                                <div class="bar" style="width: 0.52%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 0.344%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">app</span>
