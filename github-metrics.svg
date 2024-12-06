@@ -216,13 +216,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">CIM31-SI</span>
-                                <div class="bar" style="width: 57.65599999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">72%</span>
+                                <div class="bar" style="width: 43.568%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">54%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">AdventOfCode24</span>
+                                <div class="bar" style="width: 18.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">24%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">shapeland</span>
-                                <div class="bar" style="width: 22.344%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">28%</span>
+                                <div class="bar" style="width: 17.503999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">api.intron014.com</span>
